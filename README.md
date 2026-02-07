@@ -1,65 +1,85 @@
-# -Shopi-E-Commerce-Web-Application
-BHARAT GO ASSIGNMENT
+🛒 Shopi – E-Commerce Web Application
+BHARAT GO Assignment
 
-Shopi is a simple e-commerce web application built using React.  
-The project demonstrates core frontend concepts such as product listing, cart management, checkout flow, and order history.
+A simple and responsive e-commerce web application built using React.
+This project demonstrates core frontend development concepts such as product listing, cart management, checkout flow, and order history using modern React practices.
 
----
+🌐 Live Demo
 
-## 🚀 Live Demo
+🔗 Deployed Application
+👉 https://bharatgo-ecommerce-assign.netlify.app/
 
-🔗 Deployed Site:  
-(https://bharatgo-ecommerce-assign.netlify.app/)
+💻 GitHub Repository
 
----
+🔗 Source Code
+👉 https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO
 
-## 📦 GitHub Repository
+✨ Key Features
 
-🔗 Source Code:  
-((https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master))
+📦 Product listing with clean UI
 
----
+🔍 Product search functionality
 
-## ✨ Features
+🛒 Add products to cart
 
-- Product listing
-- Product search functionality
-- Add products to cart
-- Increase / decrease product quantity in cart
-- Remove items from cart
-- Checkout flow
-- Order history (My Orders)
-- Persistent cart and orders using `localStorage`
-- Responsive UI
+➕➖ Increase and decrease item quantity
 
----
+❌ Remove items from cart
 
-## 🛠️ Tech Stack
+💳 Checkout process
 
-- **Frontend:** React
-- **Routing:** React Router DOM
-- **State Management:** Context API
-- **Styling:** CSS
-- **Storage:** Browser `localStorage`
-- **Deployment:** Netlify
+📜 Order history (My Orders)
 
----
+💾 Persistent cart & orders using localStorage
 
-## ⚙️ How to Run the Project Locally
+📱 Responsive design for different screen sizes
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+🛠️ Tech Stack
+Category	Technology
+Frontend	React
+Routing	React Router DOM
+State Management	Context API
+Styling	CSS
+Storage	Browser localStorage
+Deployment	Netlify
+⚙️ Run the Project Locally
 
+Follow these steps to run the application on your local machine:
+
+1️⃣ Clone the Repository
+git clone https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO.git
+cd Shopi-E-Commerce-Web-App-BHARAT-GO
+
+2️⃣ Install Dependencies
 npm install
 
-npm install -D @vitejs/plugin-react
-
-Ctrl + C
-
+3️⃣ Start the Development Server
 npm run dev
 
-VITE v5.4.21  ready in 391 ms
 
-  ➜  Local:   http://localhost:5173/
+The application will start at:
+
+http://localhost:5173
+
+📝 Notes
+
+This project does not include user authentication
+
+All cart and order data is stored using browser localStorage
+
+Refreshing the page will retain cart and order history
+
+👨‍💻 Author
+
+Hridaynath Patil
+GitHub: https://github.com/hridaypatil
+
+✅ Submission Checklist
+
+✔ Deployed site URL provided
+
+✔ GitHub repository link shared
+
+✔ Local setup instructions included
+
+🎯 Assignment Completed Successfully
