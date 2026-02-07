@@ -60,7 +60,10 @@ npm install
 3️⃣ Start the Development Server 
 npm run dev
 
-📝 Notes This project does not include user authentication All cart and order data is stored using browser localStorage Refreshing the page will retain cart and order history
+📝 Notes 
+✔ This project does not include user authentication 
+✔ All cart and order data is stored using browser localStorage 
+✔ Refreshing the page will retain cart and order history
 
 👨‍💻 Author Hridaynath Patil GitHub: https://github.com/hridaypatil
 
