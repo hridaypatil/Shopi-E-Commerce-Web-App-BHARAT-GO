@@ -16,7 +16,7 @@ The project demonstrates core frontend concepts such as product listing, cart ma
 ## 📦 GitHub Repository
 
 🔗 Source Code:  
-(https://github.com/hridaypatil/-Shopi-E-Commerce-Web-Application/tree/main)
+((https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master))
 
 ---
 
