@@ -51,8 +51,8 @@ The project demonstrates core frontend concepts such as product listing, cart ma
 Follow the steps below to run the application on your local machine.
 
 1️⃣ Clone the Repository 
-git clone https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master.git 
-cd Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master 
+git clone https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO.git 
+cd Shopi-E-Commerce-Web-App-BHARAT-GO
 
 2️⃣ Install Dependencies 
 npm install 
