@@ -2,7 +2,7 @@
 BHARAT GO Assignment
 
 A simple and responsive e-commerce web application built using React.
-This project demonstrates core frontend development concepts such as product listing, cart management, checkout flow, and order history using modern React practices.
+
 
 🌐 Live Demo
 
@@ -12,9 +12,13 @@ This project demonstrates core frontend development concepts such as product lis
 💻 GitHub Repository
 
 🔗 Source Code
-👉 https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO
+👉 https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master
+
+
 
 ✨ Key Features
+
+
 
 📦 Product listing with clean UI
 
@@ -32,7 +36,7 @@ This project demonstrates core frontend development concepts such as product lis
 
 💾 Persistent cart & orders using localStorage
 
-📱 Responsive design for different screen sizes
+
 
 🛠️ Tech Stack
 Category	Technology
@@ -46,9 +50,10 @@ Deployment	Netlify
 
 Follow these steps to run the application on your local machine:
 
+
 1️⃣ Clone the Repository
-git clone https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO.git
-cd Shopi-E-Commerce-Web-App-BHARAT-GO
+git clone https://github.com/hridaypatil/Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master.git
+cd Shopi-E-Commerce-Web-App-BHARAT-GO/tree/master
 
 2️⃣ Install Dependencies
 npm install
@@ -69,6 +74,7 @@ All cart and order data is stored using browser localStorage
 
 Refreshing the page will retain cart and order history
 
+
 👨‍💻 Author
 
 Hridaynath Patil
@@ -81,5 +87,7 @@ GitHub: https://github.com/hridaypatil
 ✔ GitHub repository link shared
 
 ✔ Local setup instructions included
+
+
 
 🎯 Assignment Completed Successfully
