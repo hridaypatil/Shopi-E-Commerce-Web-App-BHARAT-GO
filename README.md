@@ -46,6 +46,18 @@ The project demonstrates core frontend concepts such as product listing, cart ma
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+### 🛒 Cart / My Orders Drawer
+![Cart](./screenshots/cart.png)
+
+### 📜 Order History
+![Orders](./screenshots/orders.png)
+
+
 ## ⚙️ Run the Project Locally
 
 Follow the steps below to run the application on your local machine.
